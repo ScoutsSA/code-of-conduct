@@ -94,4 +94,4 @@ If you feel there are aspects to this code of conduct which should be modified, 
 
 ## Credits
 
-This Code of Conduct is heavily based on the [ZA Tech Code of Conduct](hhttps://github.com/zatech/code-of-conduct)
+This Code of Conduct is heavily based on the [ZA Tech Code of Conduct](https://github.com/zatech/code-of-conduct)
